@@ -17,7 +17,7 @@ output:
 
 
 ```
-def solution(array, targetSum):
+def twoNumberSum(array, targetSum):
 
      // write code here
 ```
